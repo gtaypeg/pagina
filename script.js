@@ -20,7 +20,7 @@ function fetchUrl() {
 			.filter((e) => e)
 			.join('+') || '404';
 
-	let url = `/api/imagesearch/${q}?offset=${(offset - 1) * 10 + 1}`;
+	let url = `/api/imagesearch/${q}?offset=${(offset -  1) * 10 + 1}`;
 
 	fetch(url)
 		.then((data) => data.json())

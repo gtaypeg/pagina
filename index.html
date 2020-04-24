@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<!-- 		<link
+			href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
+			rel="stylesheet"
+		/> -->
+		<title>Image search</title>
+	</head>
+	<body>
+		<main>
+			<div id="search-container">
+				<form id="submit-search">
+					<input type="text" name="search" id="search" placeholder="Search images" autocomplete="off" required />
+					<button type="submit" id="button-search">
+						<div id="circle-search"></div>
+					</button>
+				</form>
+			</div>
+			<div id="results-container">
+				<div id="loading">
+					<div></div>
+					<div></div>
+					<div></div>
+					<div></div>
+				</div>
+				<div id="cont" style="display: none;"></div>
+				<div id="page"></div>
+			</div>
+		</main>
+	</body>
+
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<script type="text/javascript" src="script.js"></script>
+</html>

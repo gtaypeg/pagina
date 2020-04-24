@@ -1,0 +1,248 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - perros",
+        "totalResults": "1110000000",
+        "searchTerms": "perros",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "000926181737549391458:mb1jw7k7mbu",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - perros",
+        "totalResults": "1110000000",
+        "searchTerms": "perros",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "000926181737549391458:mb1jw7k7mbu",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.481927,
+    "formattedSearchTime": "0.48",
+    "totalResults": "1110000000",
+    "formattedTotalResults": "1,110,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "20 Adorables cachorros que te derretirán el corazón | Boo el perro ...",
+      "htmlTitle": "20 Adorables cachorros que te derretirán el corazón | Boo el \u003cb\u003eperro\u003c/b\u003e ...",
+      "link": "https://i.pinimg.com/originals/e8/a9/ce/e8a9ce9ab3f3c5ef298a14514047647e.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "20 Adorables cachorros que te derretirán el corazón | Boo el perro ...",
+      "htmlSnippet": "20 Adorables cachorros que te derretirán el corazón | Boo el \u003cb\u003eperro\u003c/b\u003e ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/835769643319363555/",
+        "height": 1112,
+        "width": 700,
+        "byteSize": 72871,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS20IliWjENux-kwn2JUjg21LoDLd9rpHJeX0i5F1YO8uxkDIOl664Ggmnd&s",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 94
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "La pulga online de perros 956 - Home | Facebook",
+      "htmlTitle": "La pulga online de \u003cb\u003eperros\u003c/b\u003e 956 - Home | Facebook",
+      "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2419037385002772",
+      "displayLink": "www.facebook.com",
+      "snippet": "La pulga online de perros 956 - Home | Facebook",
+      "htmlSnippet": "La pulga online de \u003cb\u003eperros\u003c/b\u003e 956 - Home | Facebook",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.facebook.com/pages/category/Just-For-Fun/La-pulga-online-de-perros-956-1634285080144677/",
+        "height": 482,
+        "width": 480,
+        "byteSize": 53735,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvWrNkBv5CSCJPadiW1_Ss8Fm-Bnh6sFXQHctbSHo5lDQm74LwsbwFfoxn-A&s",
+        "thumbnailHeight": 129,
+        "thumbnailWidth": 128
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cómo el rostro de los perros evolucionó para enternecer a los ...",
+      "htmlTitle": "Cómo el rostro de los \u003cb\u003eperros\u003c/b\u003e evolucionó para enternecer a los ...",
+      "link": "https://ichef.bbci.co.uk/news/1024/branded_mundo/48DD/production/_107435681_perro1.jpg",
+      "displayLink": "www.bbc.com",
+      "snippet": "Cómo el rostro de los perros evolucionó para enternecer a los ...",
+      "htmlSnippet": "Cómo el rostro de los \u003cb\u003eperros\u003c/b\u003e evolucionó para enternecer a los ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.bbc.com/mundo/noticias-48676663",
+        "height": 576,
+        "width": 1024,
+        "byteSize": 60280,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkU7ZSOcyD9N5UrxK7Og9QGoKhzXKzYVZNUjo7nw9_f9fV3gIL8RB1T3E&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tu personalidad influye en la personalidad de tu perro? - National ...",
+      "htmlTitle": "Tu personalidad influye en la personalidad de tu \u003cb\u003eperro\u003c/b\u003e? - National ...",
+      "link": "https://dam.ngenespanol.com/wp-content/uploads/2019/10/perros-personalidad-2.jpg",
+      "displayLink": "www.ngenespanol.com",
+      "snippet": "Tu personalidad influye en la personalidad de tu perro? - National ...",
+      "htmlSnippet": "Tu personalidad influye en la personalidad de tu \u003cb\u003eperro\u003c/b\u003e? - National ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.ngenespanol.com/animales/duenos-influye-personalidad-perro/",
+        "height": 410,
+        "width": 800,
+        "byteSize": 49568,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvNPNBMFRzR8d3V9M7bqFSwX8lFzGFpneLrFwvbqd32mSPiIbDPmtHCTJ1&s",
+        "thumbnailHeight": 73,
+        "thumbnailWidth": 143
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Los mejores perros de compañía",
+      "htmlTitle": "Los mejores \u003cb\u003eperros\u003c/b\u003e de compañía",
+      "link": "https://cdn.aarp.net/content/dam/aarp/home-and-family/your-home/2019/05/1140-miniature-schnauzer-esp.imgcache.rev439d301610f190d8ffc66f51d1196c78.jpg",
+      "displayLink": "www.aarp.org",
+      "snippet": "Los mejores perros de compañía",
+      "htmlSnippet": "Los mejores \u003cb\u003eperros\u003c/b\u003e de compañía",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.aarp.org/espanol/hogar-familia/casa-jardin/info-2019/mejores-perros-compania-lidiar-soledad.html",
+        "height": 655,
+        "width": 1140,
+        "byteSize": 584396,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3HsGNEg_3xXc-lyjf-pFYNYduMJaBvSTwyJcyyQSzqmvvA3wRIwXJBBa&s",
+        "thumbnailHeight": 86,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "LAS RAZAS DE PERROS MÁS TIERNAS Del Mundo - YouTube",
+      "htmlTitle": "LAS RAZAS DE \u003cb\u003ePERROS\u003c/b\u003e MÁS TIERNAS Del Mundo - YouTube",
+      "link": "https://i.ytimg.com/vi/NNDTUbAvmv8/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "LAS RAZAS DE PERROS MÁS TIERNAS Del Mundo - YouTube",
+      "htmlSnippet": "LAS RAZAS DE \u003cb\u003ePERROS\u003c/b\u003e MÁS TIERNAS Del Mundo - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=NNDTUbAvmv8",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 100452,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbAfuT7uTtFbx-FggMTeBkMBBAhfcrxBI7Of40Yb9ZlDWEEEMlY52cuk&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Buscan 10.000 perros para estudio sobre envejecimiento - Los ...",
+      "htmlTitle": "Buscan 10.000 \u003cb\u003eperros\u003c/b\u003e para estudio sobre envejecimiento - Los ...",
+      "link": "https://ca-times.brightspotcdn.com/dims4/default/9bdbdcf/2147483647/strip/true/crop/4883x3254+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2F5c%2F1d0137ff4b6d91ae76a787cc40c2%2F7e73cd7bb5224285bf1ba783e72c2e1f",
+      "displayLink": "www.latimes.com",
+      "snippet": "Buscan 10.000 perros para estudio sobre envejecimiento - Los ...",
+      "htmlSnippet": "Buscan 10.000 \u003cb\u003eperros\u003c/b\u003e para estudio sobre envejecimiento - Los ...",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.latimes.com/espanol/vida-y-estilo/articulo/2019-11-16/buscan-10-000-perros-para-estudio-sobre-envejecimiento",
+        "height": 560,
+        "width": 840,
+        "byteSize": 77583,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBspuFgcOfoTdBicItDJrThyWU6tYtiPTNHmDQKQDOU-cRjKnnNLqjWJkc&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 145
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cómo el rostro de los perros evolucionó para enternecer a los ...",
+      "htmlTitle": "Cómo el rostro de los \u003cb\u003eperros\u003c/b\u003e evolucionó para enternecer a los ...",
+      "link": "https://www.keilahradio.com/wp-content/uploads/2019/06/107435678_perro1.jpg",
+      "displayLink": "www.keilahradio.com",
+      "snippet": "Cómo el rostro de los perros evolucionó para enternecer a los ...",
+      "htmlSnippet": "Cómo el rostro de los \u003cb\u003eperros\u003c/b\u003e evolucionó para enternecer a los ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.keilahradio.com/como-el-rostro-de-los-perros-evoluciono-para-enternecer-a-los-seres-humanos/",
+        "height": 371,
+        "width": 660,
+        "byteSize": 25831,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT7cgoRG_UowDKHpTOx7J6gZHi7Rk2b0AMuXWtPBORGywZJYQsCqlHrfw&s",
+        "thumbnailHeight": 78,
+        "thumbnailWidth": 138
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Dog Music TV: videos para perros para ver y relajarse! ¡Ayuda a tu ...",
+      "htmlTitle": "Dog Music TV: videos para \u003cb\u003eperros\u003c/b\u003e para ver y relajarse! ¡Ayuda a tu ...",
+      "link": "https://i.ytimg.com/vi/6FeY057O1AA/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Dog Music TV: videos para perros para ver y relajarse! ¡Ayuda a tu ...",
+      "htmlSnippet": "Dog Music TV: videos para \u003cb\u003eperros\u003c/b\u003e para ver y relajarse! ¡Ayuda a tu ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=6FeY057O1AA",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 229766,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6CpukG2SUVLC7hQLnGUHmcfc2YZ2QVEZ1-wuFiu1CBmydyOTGs8b5tU&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Los mejores perros de compañía",
+      "htmlTitle": "Los mejores \u003cb\u003eperros\u003c/b\u003e de compañía",
+      "link": "https://cdn.aarp.net/content/dam/aarp/home-and-family/your-home/2019/05/1140-cavalier-king-charles-spaniel-esp.imgcache.rev9a125e6cf167568e9708f4e6061f6259.jpg",
+      "displayLink": "www.aarp.org",
+      "snippet": "Los mejores perros de compañía",
+      "htmlSnippet": "Los mejores \u003cb\u003eperros\u003c/b\u003e de compañía",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.aarp.org/espanol/hogar-familia/casa-jardin/info-2019/mejores-perros-compania-lidiar-soledad.html",
+        "height": 655,
+        "width": 1140,
+        "byteSize": 688337,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnepFhMWTE7GXMpx7VK3BWWjZOk9_HocqRyou-4Nc78W2kOJnuxyDPiSg&s",
+        "thumbnailHeight": 86,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}

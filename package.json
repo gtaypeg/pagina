@@ -1,0 +1,27 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "asd",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "server.js"
+  },
+  "keywords": [],
+  "author": "dasda",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "mongoose": "^5.9.10"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "as"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - gatos",
+        "totalResults": "1670000000",
+        "searchTerms": "gatos",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "000926181737549391458:mb1jw7k7mbu",
+        "searchType": "image"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - gatos",
+        "totalResults": "1670000000",
+        "searchTerms": "gatos",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "000926181737549391458:mb1jw7k7mbu",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.352839,
+    "formattedSearchTime": "0.35",
+    "totalResults": "1670000000",
+    "formattedTotalResults": "1,670,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Cat Cafe, Adopt a Cat - Gatos and Beans - Birmingham, Alabama",
+      "htmlTitle": "Cat Cafe, Adopt a Cat - \u003cb\u003eGatos\u003c/b\u003e and Beans - Birmingham, Alabama",
+      "link": "http://img1.wsimg.com/isteam/ip/18af1154-b92f-44b2-9f43-8b8634b18c54/Gatos%20and%20Beans-51.jpg",
+      "displayLink": "gatosandbeans.com",
+      "snippet": "Cat Cafe, Adopt a Cat - Gatos and Beans - Birmingham, Alabama",
+      "htmlSnippet": "Cat Cafe, Adopt a Cat - \u003cb\u003eGatos\u003c/b\u003e and Beans - Birmingham, Alabama",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://gatosandbeans.com/",
+        "height": 2048,
+        "width": 2560,
+        "byteSize": 475609,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGO65Cswh5aNocicosaXYLxJiFHqqhjfzNKf9Drc3F2UAnhvJ1rhSVJM&s",
+        "thumbnailHeight": 120,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Amazon.com: Sonidos De Gatos - Sonidos De Gatitos: Appstore for ...",
+      "htmlTitle": "Amazon.com: Sonidos De \u003cb\u003eGatos\u003c/b\u003e - Sonidos De Gatitos: Appstore for ...",
+      "link": "https://images-na.ssl-images-amazon.com/images/I/81znIZ3F0eL._SY355_.png",
+      "displayLink": "www.amazon.com",
+      "snippet": "Amazon.com: Sonidos De Gatos - Sonidos De Gatitos: Appstore for ...",
+      "htmlSnippet": "Amazon.com: Sonidos De \u003cb\u003eGatos\u003c/b\u003e - Sonidos De Gatitos: Appstore for ...",
+      "mime": "image/png",
+      "fileFormat": "image/png",
+      "image": {
+        "contextLink": "https://www.amazon.com/GuideHunting-L-L-C-Sonidos-Gatos-Gatitos/dp/B07KY3X5HV",
+        "height": 355,
+        "width": 355,
+        "byteSize": 21367,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg6usiMRFeQuVS46ehO7tA8wc97hR8Eby2cCAydxihNLdkUw5ZqxA8enI&s",
+        "thumbnailHeight": 121,
+        "thumbnailWidth": 121
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Gatos bonitos - Home | Facebook",
+      "htmlTitle": "\u003cb\u003eGatos\u003c/b\u003e bonitos - Home | Facebook",
+      "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1566728923358027",
+      "displayLink": "www.facebook.com",
+      "snippet": "Gatos bonitos - Home | Facebook",
+      "htmlSnippet": "\u003cb\u003eGatos\u003c/b\u003e bonitos - Home | Facebook",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.facebook.com/losmejoresgatosdelahistoria/",
+        "height": 960,
+        "width": 879,
+        "byteSize": 94162,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUMgE8GVKjJCD7RdaVOUILrGuW5xcjylq3bibaiKTaW7yybdhcOFsFoKEag&s",
+        "thumbnailHeight": 148,
+        "thumbnailWidth": 136
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "File:GATOS.jpg - Wikimedia Commons",
+      "htmlTitle": "File:\u003cb\u003eGATOS\u003c/b\u003e.jpg - Wikimedia Commons",
+      "link": "https://upload.wikimedia.org/wikipedia/commons/4/48/GATOS.jpg",
+      "displayLink": "commons.wikimedia.org",
+      "snippet": "File:GATOS.jpg - Wikimedia Commons",
+      "htmlSnippet": "File:\u003cb\u003eGATOS\u003c/b\u003e.jpg - Wikimedia Commons",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://commons.wikimedia.org/wiki/File:GATOS.jpg",
+        "height": 720,
+        "width": 960,
+        "byteSize": 72060,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxvvg6j79e-_VOuT-BMefXz43NjPJLX_C1VnaanoJPMYk-_i2ElzfjxVI&s",
+        "thumbnailHeight": 111,
+        "thumbnailWidth": 148
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "filhotes de gatos mais fofos do mundo - Pesquisa Google (com ...",
+      "htmlTitle": "filhotes de \u003cb\u003egatos\u003c/b\u003e mais fofos do mundo - Pesquisa Google (com ...",
+      "link": "https://i.pinimg.com/originals/0c/a4/4f/0ca44fc644b419e7201a2f0f193165de.jpg",
+      "displayLink": "www.pinterest.com",
+      "snippet": "filhotes de gatos mais fofos do mundo - Pesquisa Google (com ...",
+      "htmlSnippet": "filhotes de \u003cb\u003egatos\u003c/b\u003e mais fofos do mundo - Pesquisa Google (com ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.pinterest.com/pin/303007881171531407/",
+        "height": 700,
+        "width": 700,
+        "byteSize": 74910,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCRyQs8Trc-Hd5fE4Tal_LOJqNFhdsE8KGK8-0LCGSsmh9k-Mofv0sikqSNw&s",
+        "thumbnailHeight": 140,
+        "thumbnailWidth": 140
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Por qué creemos que los gatos son menos cariñosos y amigables que ...",
+      "htmlTitle": "Por qué creemos que los \u003cb\u003egatos\u003c/b\u003e son menos cariñosos y amigables que ...",
+      "link": "https://ichef.bbci.co.uk/news/410/cpsprodpb/10E9B/production/_109757296_gettyimages-1128004359.jpg",
+      "displayLink": "www.bbc.com",
+      "snippet": "Por qué creemos que los gatos son menos cariñosos y amigables que ...",
+      "htmlSnippet": "Por qué creemos que los \u003cb\u003egatos\u003c/b\u003e son menos cariñosos y amigables que ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.bbc.com/mundo/vert-fut-50490320",
+        "height": 230,
+        "width": 410,
+        "byteSize": 8765,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz6ibmDtnzR7h4Q8LT4d2zkIrrtVc3-sgLUc4tfQxfkva6BT6GmQZn3A&s",
+        "thumbnailHeight": 70,
+        "thumbnailWidth": 125
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Gatos Graciosos - Los Mejores Videos de Gatos Chistosos #1 - YouTube",
+      "htmlTitle": "\u003cb\u003eGatos\u003c/b\u003e Graciosos - Los Mejores Videos de \u003cb\u003eGatos\u003c/b\u003e Chistosos #1 - YouTube",
+      "link": "https://i.ytimg.com/vi/BuOADNq99Ms/hqdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Gatos Graciosos - Los Mejores Videos de Gatos Chistosos #1 - YouTube",
+      "htmlSnippet": "\u003cb\u003eGatos\u003c/b\u003e Graciosos - Los Mejores Videos de \u003cb\u003eGatos\u003c/b\u003e Chistosos #1 - YouTube",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.youtube.com/watch?v=BuOADNq99Ms",
+        "height": 360,
+        "width": 480,
+        "byteSize": 24506,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK10ExNK49oir3ec9chaIbctVCuOE__x13-aavgFDTH8whH7A1EmKaWPWM&s",
+        "thumbnailHeight": 97,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Gatos Maine Coon Costa Rica / Maine Coon Cats - Home | Facebook",
+      "htmlTitle": "\u003cb\u003eGatos\u003c/b\u003e Maine Coon Costa Rica / Maine Coon Cats - Home | Facebook",
+      "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=692075721181051",
+      "displayLink": "www.facebook.com",
+      "snippet": "Gatos Maine Coon Costa Rica / Maine Coon Cats - Home | Facebook",
+      "htmlSnippet": "\u003cb\u003eGatos\u003c/b\u003e Maine Coon Costa Rica / Maine Coon Cats - Home | Facebook",
+      "mime": "image/",
+      "fileFormat": "image/",
+      "image": {
+        "contextLink": "https://www.facebook.com/gatosmainecoon/",
+        "height": 856,
+        "width": 855,
+        "byteSize": 93708,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiYxyt3_KVbftfBSdH_FKCcdzzsCmAn2PbAp9QS95BRCLRm0Xi7Thn86AxIA&s",
+        "thumbnailHeight": 145,
+        "thumbnailWidth": 145
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Gatos and Beans is Birmingham's first Cat Cafe and Adoption Center!",
+      "htmlTitle": "\u003cb\u003eGatos\u003c/b\u003e and Beans is Birmingham&#39;s first Cat Cafe and Adoption Center!",
+      "link": "https://www.magiccityweekend.com/wp-content/uploads/2019/08/Gatos-and-Beans-4.jpg",
+      "displayLink": "www.magiccityweekend.com",
+      "snippet": "Gatos and Beans is Birmingham's first Cat Cafe and Adoption Center!",
+      "htmlSnippet": "\u003cb\u003eGatos\u003c/b\u003e and Beans is Birmingham&#39;s first Cat Cafe and Adoption Center!",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://www.magiccityweekend.com/gatos-and-beans-cat-cafe/",
+        "height": 1080,
+        "width": 1920,
+        "byteSize": 653072,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNTxwKrUJJP2dNEMhb6H6Ch5o0SXVYPbSQca3X8A7bUOF19ArPpjCcDVZ&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Los gatos entienden sus nombres y tal vez eligen ignorarlo ...",
+      "htmlTitle": "Los \u003cb\u003egatos\u003c/b\u003e entienden sus nombres y tal vez eligen ignorarlo ...",
+      "link": "https://cnnespanol2.files.wordpress.com/2019/08/gatos-felinos-mininos-gatito.jpg?quality=100&strip=info",
+      "displayLink": "cnnespanol.cnn.com",
+      "snippet": "Los gatos entienden sus nombres y tal vez eligen ignorarlo ...",
+      "htmlSnippet": "Los \u003cb\u003egatos\u003c/b\u003e entienden sus nombres y tal vez eligen ignorarlo ...",
+      "mime": "image/jpeg",
+      "fileFormat": "image/jpeg",
+      "image": {
+        "contextLink": "https://cnnespanol.cnn.com/2019/08/08/gatos-entienden-nombres-ignorarlo-estudio-investigadores/",
+        "height": 619,
+        "width": 1100,
+        "byteSize": 271051,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0SxidL4b-pNtq7Q0R_7Y-DoVNbB3i94Y3FGzBO6_5iADS2tMbBL8mCeK&s",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}
